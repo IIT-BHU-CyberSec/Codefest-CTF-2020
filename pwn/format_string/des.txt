@@ -1,0 +1,5 @@
+My maps just stopped workin and I need to go. Guide me and I shall reward you with a flag.
+
+Note : The binary is a 32bit executable, you may need to install gcc-multilib
+
+`sudo apt-get install gcc-multilib`
